@@ -1,8 +1,8 @@
 # 项目简介
 ## 如果ipynb无法访问，可尝试刷新或者下载html文件本地查看
-[清洗过程 Wrangle_WeRateDogs.ipynb](https://github.com/VeeDou/project_WeRateDogs/blob/master/Wrangle_WeRateDogs.ipynb)  
-[可视化报告 act_report.ipynb](https://github.com/VeeDou/project_WeRateDogs/blob/master/act_report.ipynb)  
-[清洗报告 wrangle_report.ipynb](https://github.com/VeeDou/project_WeRateDogs/blob/master/wrangle_report.ipynb)  
+[清洗过程 wrangle_act.ipynb](https://github.com/VeeDou/project_WeRateDogs/blob/master/wrangle_act.ipynb)  
+[可视化报告 act_report.pdf](https://github.com/VeeDou/project_WeRateDogs/blob/master/act._report.pdf)  
+[清洗报告 wrangle_report.pdf](https://github.com/VeeDou/project_WeRateDogs/blob/master/wrangle_report.pdf)  
 ## 项目主要内容  
   通过jupyter notebook 进行数据的读取转换和清洗和可视化  
 ## 基本数据：Twitter 上WeRateDogs的Twitter内容、点赞数、转发数量等数据。  
