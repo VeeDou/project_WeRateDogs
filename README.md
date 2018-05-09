@@ -1,5 +1,4 @@
 # 项目简介
-## 如果ipynb无法访问，可尝试刷新或者下载html文件本地查看
 [清洗过程 wrangle_act.ipynb](https://github.com/VeeDou/project_WeRateDogs/blob/master/wrangle_act.ipynb)  
 [可视化报告 act_report.pdf](https://github.com/VeeDou/project_WeRateDogs/blob/master/act._report.pdf)  
 [清洗报告 wrangle_report.pdf](https://github.com/VeeDou/project_WeRateDogs/blob/master/wrangle_report.pdf)  
